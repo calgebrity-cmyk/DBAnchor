@@ -13,7 +13,7 @@
 We take security seriously. If you discover a vulnerability or security-related issue in DBAnchor:
 
 1. **Do not create a public GitHub issue.**
-2. Send a detailed report to **security@dbanchor.dev**.
+2. Send a detailed report to **calgebrity@gmail.com**.
 3. Include reproduction steps, environment details, and affected version.
 4. We will acknowledge receipt within 48 hours and provide a timeline for triage and resolution.
 
