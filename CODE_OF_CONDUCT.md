@@ -50,4 +50,4 @@ an individual is officially representing the community in public spaces.
 
 ## Contact
 
-Report issues to conduct@dbanchor.dev.
+Report issues to calgebrity@gmail.com.
