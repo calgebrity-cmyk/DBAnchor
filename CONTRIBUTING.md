@@ -2,7 +2,10 @@
 
 We welcome contributions to DBAnchor! Whether you are fixing bugs, improving documentation, adding diagnostics rules, or enhancing CLI capabilities, your help is appreciated.
 
+Official website: **https://dbanchor.calgebrity.com/**
+
 ---
+
 
 ## Code of Conduct
 

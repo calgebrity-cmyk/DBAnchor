@@ -9,7 +9,7 @@ description = "Safe universal database developer-experience middleware and diagn
 readme = "README.md"
 license = "Apache-2.0"
 authors = [
-    { name = "DBAnchor Maintainers", email = "maintainers@dbanchor.dev" },
+    { name = "DBAnchor Maintainers", email = "calgebrity@gmail.com" },
 ]
 keywords = [
     "postgresql",
@@ -72,10 +72,11 @@ dbanchor = "dbanchor.cli.main:app"
 dbx = "dbanchor.cli.main:app"
 
 [project.urls]
-Homepage = "https://github.com/calgebrity-cmyk/DBAnchor"
-Documentation = "https://github.com/calgebrity-cmyk/DBAnchor#readme"
+Homepage = "https://dbanchor.calgebrity.com/"
+Documentation = "https://dbanchor.calgebrity.com/"
 Repository = "https://github.com/calgebrity-cmyk/DBAnchor.git"
 Issues = "https://github.com/calgebrity-cmyk/DBAnchor/issues"
+Changelog = "https://github.com/calgebrity-cmyk/DBAnchor/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/dbanchor"]
