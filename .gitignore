@@ -67,3 +67,16 @@ dmypy.json
 *.sqlite3
 *.db
 docker_data/
+
+.pypi-test/
+.final-pypi-test/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
