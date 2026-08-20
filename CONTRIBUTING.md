@@ -14,7 +14,7 @@ All contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/dbanchor/dbanchor.git
+   git clone https://github.com/calgebrity-cmyk/DBAnchor.git
    cd dbanchor
    ```
 

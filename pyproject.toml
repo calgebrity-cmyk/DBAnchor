@@ -72,10 +72,10 @@ dbanchor = "dbanchor.cli.main:app"
 dbx = "dbanchor.cli.main:app"
 
 [project.urls]
-Homepage = "https://github.com/dbanchor/dbanchor"
-Documentation = "https://github.com/dbanchor/dbanchor#readme"
-Repository = "https://github.com/dbanchor/dbanchor.git"
-Issues = "https://github.com/dbanchor/dbanchor/issues"
+Homepage = "https://github.com/calgebrity-cmyk/DBAnchor"
+Documentation = "https://github.com/calgebrity-cmyk/DBAnchor#readme"
+Repository = "https://github.com/calgebrity-cmyk/DBAnchor.git"
+Issues = "https://github.com/calgebrity-cmyk/DBAnchor/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/dbanchor"]

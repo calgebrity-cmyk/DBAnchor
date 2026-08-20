@@ -6,7 +6,7 @@
 
 **Safe Universal Database Developer-Experience Middleware & Diagnostics for PostgreSQL.**
 
-[![CI](https://github.com/dbanchor/dbanchor/actions/workflows/ci.yml/badge.svg)](https://github.com/dbanchor/dbanchor/actions/workflows/ci.yml)
+[![CI](https://github.com/calgebrity-cmyk/DBAnchor/actions/workflows/ci.yml/badge.svg)](https://github.com/calgebrity-cmyk/DBAnchor/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/badge/pypi-0.1.0-blue.svg)](https://pypi.org/project/dbanchor/)
 [![Python versions](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://pypi.org/project/dbanchor/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE)
